@@ -1,0 +1,74 @@
+:root {
+    --parisienne: "Parisienne", cursive;
+    --nautigal: "The Nautigal", cursive;
+    --qwitcher:  "Qwitcher Grypen", cursive;
+    --clicker:  "Clicker Script", cursive;
+    --fuggles:  "Fuggles", cursive;
+    --bilbo:  "Bilbo Swash Cap";
+    --kolker:  "Kolker Brush", cursive;
+    --island:  "Island Moments", cursive;
+    --inspiration:  "Inspiration", cursive;
+    --flowers:  "Send Flowers", cursive;
+    --splash:  "Splash", cursive;
+    --puppies:  "Puppies Play", cursive;
+    --architects: "Architects Daughter", cursive;
+    --dosis: "Dosis", sans-serif;
+    --grotesque: "Darker Grotesque", sans-serif;
+    --mansalva: "Mansalva", sans-serif;
+    --thasadith: "Thasadith", sans-serif;
+    --pompiere: "Pompiere", sans-serif;
+    --bellota: "Bellota Text", sans-serif;
+    --mako: "Mako", sans-serif;
+    --bubbler: "Bubbler One", sans-serif;
+    --gaegu: "Gaegu", sans-serif;
+    --alumni: "Alumni Sans Pinstripe", sans-serif;
+}
+  
+
+  
+
+  body {
+    background-color: rgb(8, 95, 153);
+  }
+  
+
+  .heading {
+    font-family: var(--island);
+    font-size: 6em;
+    color: white;
+  }
+  
+  .subheading {
+    font-family: var(--pompiere);
+    font-size: 3em;
+    color: white;
+  }
+
+  .nav-link {
+    color: white;
+    font-family: var(--alumni);
+    font-family: var(--bubbler);
+    font-family: var(--gaegu);
+    font-family: var(--pompiere);
+    font-family: var(--mansalva);
+    font-family: var(--grotesque);
+    font-family: var(--thasadith);
+    font-size: 2em;
+  }
+  
+  .nav-link:hover {
+    color: rgb(243, 32, 148);
+  }
+
+  .figure-caption {
+    font-size: 1.5em;
+    font-family: var(--alumni);
+    font-family: var(--bubbler);
+    font-family: var(--gaegu);
+    font-family: var(--thasadith);
+    font-family: var(--grotesque);
+    font-family: var(--mansalva);
+    font-family: var(--pompiere);
+    color: white;
+  }
+
